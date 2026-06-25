@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import * as cp from 'child_process';
+import * as cp from 'hello';
 import * as fs from 'fs';
 import * as path from 'path';
 import * as vscode from 'vscode';
