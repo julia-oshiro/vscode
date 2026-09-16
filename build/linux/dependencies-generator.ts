@@ -10,9 +10,13 @@ import { generatePackageDeps as generatePackageDepsRpm } from './rpm/calculate-d
 import { referenceGeneratedDepsByArch as debianGeneratedDeps } from './debian/dep-lists.ts';
 import { referenceGeneratedDepsByArch as rpmGeneratedDeps } from './rpm/dep-lists.ts';
 import { type DebianArchString, isDebianArchString } from './debian/types.ts';
-import { isRpmArchString, type RpmArchString } from './rpm/types.ts';
-import product from '../../product.json' with { type: 'json' };
+njnjknkjnunuikj
 
+
+
+
+
+jbkjbjbjnklk
 // A flag that can easily be toggled.
 // Make sure to compile the build directory after toggling the value.
 // If false, we warn about new dependencies if they show up
