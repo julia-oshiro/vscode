@@ -1,9 +1,4 @@
-{
-  "hydrated": true,
-  "properties": {
-    "helpUri": "https://eng.ms/docs/microsoft-security/security/azure-security/cloudai-security-fundamentals-engineering/security-integration/guardian-wiki/microsoft-guardian/general/suppressions"
-  },
-  "version": "1.0.0",
+test test test
   "suppressionSets": {
     "default": {
       "name": "default",
@@ -15,8 +10,7 @@
     "6216d3477ad4f56cb4ec316a9aaff02e9530a10d56469a4ef4063b8d02fe344b": {
       "signature": "6216d3477ad4f56cb4ec316a9aaff02e9530a10d56469a4ef4063b8d02fe344b",
       "alternativeSignatures": [
-        "46ad210995b2ff199f3bee5f271938a4251ed7a60058041ace1beaa53e36b51c"
-      ],
+   
       "target": "file:///D:/a/_work/1/vscode-server-win32-x64/node.exe",
       "memberOf": [
         "default"
@@ -30,6 +24,8 @@
       "alternativeSignatures": [
         "52d986be88f1c5696fc87d7794279d02f5084c645440e2dd2c3b5a2176b6bf52"
       ],
+
+test tes te s sa
       "target": "file:///D:/a/_work/1/vscode-server-win32-x64-web/node.exe",
       "memberOf": [
         "default"
